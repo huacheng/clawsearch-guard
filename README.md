@@ -1,5 +1,7 @@
 # ClawSearch Guard
 
+[![npm version](https://img.shields.io/npm/v/clawsearch-guard)](https://www.npmjs.com/package/clawsearch-guard) [![license](https://img.shields.io/npm/l/clawsearch-guard)](https://opensource.org/licenses/MIT)
+
 Pre-install security gate for AI agent skills. Blocks dangerous skills before installation.
 
 ## Install
