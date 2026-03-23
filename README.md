@@ -68,7 +68,7 @@ When enabled, every `clawhub install` is intercepted:
 ## Powered by
 
 - API: https://api.clawsearch.cc
-- 33,000+ skills indexed, 1,700+ audited with Trust Score
+- 33,000+ skills indexed, 1,700+ audited with Trust Score (continuous auditing ~2,000/day)
 
 ## License
 
