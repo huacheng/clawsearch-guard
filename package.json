@@ -1,0 +1,16 @@
+{
+  "name": "clawsearch-guard",
+  "version": "0.2.0",
+  "description": "Pre-install security gate for AI agent skills — blocks dangerous skills before installation",
+  "bin": {
+    "clawsearch-guard": "./bin/guard.mjs"
+  },
+  "type": "module",
+  "keywords": ["claude-code", "skill", "security", "pre-install", "hook", "guard", "trust-score"],
+  "author": "ClawSec",
+  "license": "MIT",
+  "homepage": "https://clawsearch.cc",
+  "engines": {
+    "node": ">=18"
+  }
+}
